@@ -1,0 +1,12 @@
+th, td,caption {
+    border: 1px solid black;
+    border-radius: 10px;
+  }
+thead tr,th, td, caption{
+    background-color: black;
+}
+thead tr,th, td, caption{
+    background: black;
+    color: rgb(255, 255, 255);
+    text-shadow:1 px 1 px rgb(255, 255, 255) ;
+}
